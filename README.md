@@ -1,4 +1,4 @@
-# NLP Text Analysis Project
+# NLP Text Analysis 
 
 ## Overview
 This project performs comprehensive text analysis on web articles, extracting content and computing various linguistic and sentiment metrics.
